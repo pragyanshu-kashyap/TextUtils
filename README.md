@@ -134,13 +134,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 Fork the Repository: Fork the repository to your own GitHub account.
 
-Clone the Forked Repository:
-
-bash
-Insert Code
-Run
-Copy code
-git clone https://github.com/your-username/textutils.git
+Clone the Forked Repository:- git clone https://github.com/your-username/textutils.git
 
 Create a New Branch:- git checkout -b feature/your-feature-name
 
